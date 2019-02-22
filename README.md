@@ -23,4 +23,4 @@ Możemy wysyłać polecenie za poleceniem w tym graficznym interfejsie o zobaczy
 Licznik i synchronizacja:
 
 Licznik i synchronizacja licznika działają w różnych wątkach. Co  1 milisekundę w jednym wątku licznik zwiększa się o 1. 
-Synchronizacja - Po utworzeniu agenta, socket agenta łączy się do grupy i co kwant czasu odsyła polecenie SYN do wszystkich w grupie, przyjmuję wartości liczników i zmienia swój.
+Synchronizacja - Po utworzeniu agenta, socket agenta łączy się do grupy i co kwant czasu odsyła polecenie SYN do wszystkich w grupie, przyjmuję wartości liczników i zmienia swój. 
